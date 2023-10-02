@@ -1,0 +1,16 @@
+export default {
+  INVISIBLE: 0x2F3136,
+  PASTEL_RED: 0xc23b22,
+  PASTEL_YELLOW: 0xf9f9ae,
+  PASTEL_GREEN: 0xb0d8a6,
+  PASTEL_BLUE: 0xa2bfe8,
+  PASTEL_PURPLE: 0xc2a2cb,
+  PASTEL_ORANGE: 0xf9b967,
+  BLACK: 0x000001,
+  WHITE: 0xffffff,
+  BLUE: 0x007fff,
+  GREEN: 0x7cfc00,
+  RED: 0xff2400,
+  YELLOW: 0xffff00,
+  ORANGE: 0xec6400
+}
